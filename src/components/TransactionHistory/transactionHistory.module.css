@@ -1,0 +1,17 @@
+.transactionHistory {
+  margin: 10px auto;
+  width: 660px;
+  background-color: rgb(197, 103, 103);
+  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+td {
+  padding: 3px;
+  border: 1px solid black;
+  font-weight: 400;
+}
+th {
+  padding: 5px;
+  background-color: rgb(179, 80, 80);
+}
