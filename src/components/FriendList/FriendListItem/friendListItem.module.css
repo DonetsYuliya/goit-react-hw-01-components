@@ -1,0 +1,24 @@
+.item {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  border: 1px solid brown;
+  padding: 5px 10px;
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+}
+.isActive {
+  background-color: darkred;
+}
+
+.name {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+}
