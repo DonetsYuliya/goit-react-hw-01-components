@@ -1,4 +1,3 @@
-import css from './transactionItem.module.css';
 import PropTypes from 'prop-types';
 
 export const TransactionItem = ({ items }) => {
