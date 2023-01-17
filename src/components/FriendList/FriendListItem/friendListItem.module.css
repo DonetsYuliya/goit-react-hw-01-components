@@ -4,7 +4,14 @@
   align-items: center;
   gap: 15px;
   border: 1px solid brown;
+  border-radius: 5px;
   padding: 5px 10px;
+  transform: background-color 350ms cubic-bezier(0.1, 0.7, 1, 0.1);
+}
+
+.item:hover,
+.item:focus {
+  background-color: rgb(247, 247, 101);
 }
 
 .status {
